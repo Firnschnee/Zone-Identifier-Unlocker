@@ -28,6 +28,7 @@ PowerShell ships with `Unblock-File`, which removes the `Zone.Identifier` stream
 # Unblock all files in a specific directory
 .\Zone-Identifier-Unlocker.ps1 -Path "C:\path\to\your\folder"
 ```
+Just put the file in the folder and run it. 
 
 ## Notes
 
