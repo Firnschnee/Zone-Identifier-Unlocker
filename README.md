@@ -35,3 +35,6 @@ Just put the file in the folder and run it.
 - Requires PowerShell 3.0 or later (ships with Windows 8.1+)
 - Run as the user who owns the files (no admin required in most cases)
 - Only affects NTFS volumes — FAT32/exFAT don't support ADS anyway
+
+## License
+MIT License – See [LICENSE](LICENSE) file
